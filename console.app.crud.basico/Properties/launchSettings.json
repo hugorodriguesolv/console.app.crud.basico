@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "console.app.crud.basico": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
